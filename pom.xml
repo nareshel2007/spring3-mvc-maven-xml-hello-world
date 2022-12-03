@@ -66,21 +66,7 @@
 				</configuration>
 			</plugin>
 			
-			
-			 <distributionManagement>
-
-    <repository>
-        <id>releases</id>
-        <name>Releases</name>
-        <url>http://65.2.74.56:8081/repository/springapp/</url>
-    </repository>
-
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>Snapshots</name>
-        <url>http://65.2.74.56:8081/repository/springapp/</url>
-    </snapshotRepository>
-</distributionManagement>
+					 
 			
 		</plugins>
 	</build>
